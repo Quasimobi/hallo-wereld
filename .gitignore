@@ -1,0 +1,13 @@
+# .gitignore als Link werkt het niet
+_site
+.sass-cache
+# Voor Eleventy Fetch
+.cache 
+.DS_Store
+.env
+
+node_modules
+proberen.sh
+authorisatie.sh
+# Kitty, local Netlify folder
+#.netlify
