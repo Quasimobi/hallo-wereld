@@ -11,3 +11,5 @@ Including how to work with Branches on GitHub.
 Now we are starting to cover undoing and rewriting.
 
 Regel 1 toegevoegd
+Nog een regel toegevoegd
+
